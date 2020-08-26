@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/reading"
+        android:title="Reading"
+        android:icon="@drawable/iconreading"/>
+
+    <item
+        android:id="@+id/store"
+        android:title="Store"
+        android:icon="@drawable/iconstore"/>
+
+    <item
+        android:id="@+id/library"
+        android:title="Library"
+        android:icon="@drawable/iconlibrary"/>
+
+
+
+    <item
+        android:id="@+id/account"
+        android:title="Account"
+        android:icon="@drawable/icon_account"/>
+
+</menu>
